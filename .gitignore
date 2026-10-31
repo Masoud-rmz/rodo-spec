@@ -1,17 +1,5 @@
-# node
 node_modules/
-*.log
-.pnpm-store/
-
-# editors
-.vscode/settings.json
-.idea/
-
-# OS
+dist/
+*.tgz
+*.tsbuildinfo
 .DS_Store
-Thumbs.db
-
-# RODO local state
-rodo/**/*.rodo.md
-.rodo/
-rodo/last-sync.json
